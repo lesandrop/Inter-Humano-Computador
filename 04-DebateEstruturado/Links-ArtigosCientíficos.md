@@ -12,4 +12,8 @@
 
 * [Creating user stereotypes for persona development from qualitative data through semi-automatic subspace clustering](https://link.springer.com/article/10.1007%2Fs11257-019-09252-5)
 
+* [Will They Use It or Not? Investigating Software Developers’ Intention to Follow Privacy Engineering Methodologies](https://doi.org/10.1145/3364224)
+
+* [Designing for Pragmatists and Fundamentalists: Privacy Concerns and Attitudes on the Internet of Things](https://dl.acm.org/doi/10.1145/3160504.3160545)
+
 _Lesandro Ponciano (lesandrop at pucminas.br) - PUC Minas_
