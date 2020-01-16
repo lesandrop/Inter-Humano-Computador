@@ -11,6 +11,7 @@
 1. [Conceitos de Projeto e Avaliação de Sistemas Interativos](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-02-Conceito%20de%20interface%20e%20de%20design%20da%20intera%C3%A7%C3%A3o.pdf)
 1. [Abordagens Teóricas em IHC](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-03-Abordagens%20Teoricas%20em%20IHC.pdf)
 1. [Paradigmas da Interação Humano-Computador e Recomendações Ergonômicas](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-04-Paradigmas%20da%20interacao%20humano-computador.pdf)
+1. [Uma Breve Introdução à Estética e seu Contexto em IHC](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-05-Est%C3%A9tica%20em%20IHC.pdf)
 
 # Uso e contribuição com materiais
 
