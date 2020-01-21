@@ -4,6 +4,7 @@
 
 * [Interaction Design Foundation](https://www.interaction-design.org/)
 
+* [Nielsen Norman Group](https://www.nngroup.com/)
 
 ## Português ##
 * [UX Collective BR](https://brasil.uxdesign.cc/)
