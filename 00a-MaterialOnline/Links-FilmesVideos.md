@@ -21,7 +21,7 @@
 
 ### Avaliação de IHC - Interface e interação
 
-1.[Design Thinking (playlist)](https://www.youtube.com/watch?v=16p9YRF0l-g&list=PLoUU-jxZ3gAFsFva5wk0M_dq1DmbPzrlt)
+1. [Design Thinking (playlist)](https://www.youtube.com/watch?v=16p9YRF0l-g&list=PLoUU-jxZ3gAFsFva5wk0M_dq1DmbPzrlt)
 
 ### Motivação e Mercado
 
