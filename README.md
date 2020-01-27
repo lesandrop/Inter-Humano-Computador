@@ -28,7 +28,7 @@ Os estudantes desta unidade curricular têm realizado trabalhos excelentes. Esto
 * [Vídeos dos trabalhos de 2019.1](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/TrabalhosDeExAlunos/2019-1-Videos.md)
 
 
-# Uso e contribuição com materiais
+## Uso e contribuição com materiais
 
 Neste repositório está o material que pode ser mantido público. Outros materiais, atividades, roteiros devem ser baixados diretamente do Sistema de Gerenciamento Acadêmico (SGA). Notas e correções de atividades são divulgadas exclusivamente pelo SGA. Os alunos da disciplina podem contribuir com correções e sugestões dos materiais neste repositório por meio de _pull requests_. Tais contribuições poderão, ao fim da disciplina, após análise do professor, serem pontuadas com 1 ponto extra na disciplina.
 
