@@ -13,6 +13,15 @@
 1. [Paradigmas da Interação Humano-Computador e Recomendações Ergonômicas](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-04-Paradigmas%20da%20interacao%20humano-computador.pdf)
 1. [Uma Breve Introdução à Estética e seu Contexto em IHC](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-05-Est%C3%A9tica%20em%20IHC.pdf)
 
+## Cartão de Suporte
+
+Criei um cartão de suporte que serve como resumo do conteúdo estudado ao longo de todo o semestre. Ele é usado durante as aulas e em atividades. O conteúdo neste cartão não é exaustivo, mas o conteúdo coberto no cartão serve de ancora para o conteúdo que não foi incluído. Você pode acessá-lo nos links abaixo.
+* [Lado A e Lado B em formato pdf](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/03-Cart%C3%A3oDeSuporte-HCISupportCard/Cart%C3%A3o-IHC.pdf)
+* [Lado A em formato jpg](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/03-Cart%C3%A3oDeSuporte-HCISupportCard/Cart%C3%A3o-IHC-A.jpg)
+* [Lado B em formato jpg](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/03-Cart%C3%A3oDeSuporte-HCISupportCard/Cart%C3%A3o-IHC-B.jpg)
+
+
+
 ## Material online
 Fiz a curadoria de alguns materiais online sobre interação humano-computador. São materiais complementares que considero úteis à unidade curricular. Esse material será indicado na aula apropriada. Isso não impede que os alunos explorem eles a qualquer tempo que desejarem -  é recomendado que o façam. Esta lista é dinâmica, novos materiais podem adicionados e links podem ser removidos ao longo do tempo. Os alunos da unidade curricular podem, inclusive, complementar a lista adicionando links para outros materiais que encontrarem na Internet. Para isso, façam _pull request_. Os materiais encontram-se organizados em duas categorias, que são:
 
