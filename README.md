@@ -20,6 +20,11 @@ Criei um cartão de suporte que serve como resumo do conteúdo estudado ao longo
 * [:gift: Lado A em formato jpg](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/03-Cart%C3%A3oDeSuporte-HCISupportCard/Cart%C3%A3o-IHC-A.jpg)
 * [:gift: Lado B em formato jpg](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/03-Cart%C3%A3oDeSuporte-HCISupportCard/Cart%C3%A3o-IHC-B.jpg)
 
+Os estudantes que desejarem entender melhor como o Cartão de Suporte é criado e como ele pode ser usado para melhorar o aproveitamento acadêmico nos conteúdos de interação humano-computador, sugiro lerem o artigo [HCI Support Card: Creating and Using a Support Card for Education in Human-Computer Interaction](https://doi.org/10.5753/ihc.2019.8409).
+
+## Debate Estruturado
+
+É tradição organizar o[Debate Estruturado](https://doi.org/10.5753/ihc.2018.4209) na unidade curricular. O propósito do debate é discutir tópicos de interação e interface que envolvem valores humanos. O debate também é uma forma de aproximar o estudante da produção científica na vanguarda na área de IHC. O debate consiste em uma fase de preparação, com a leitura e fichamento de artigos científicos, e uma fase de execução, com uma dinâmica de parlamento inglês realizada em sala de aula. Os estudantes que desejarem conhecer de antemão os detalhes da dinâmica do debate pode ler o artigo [Debate Estruturado: Uma Estratégia Pedagógica para Ensino e Aprendizagem de Valores Humanos em Interação Humano-Computador](https://doi.org/10.5753/ihc.2018.4209). As instruções para cada debate são divulgadas oportunamente.
 
 ## Material online
 Fiz a curadoria de alguns materiais online sobre interação humano-computador. São materiais complementares que considero úteis à unidade curricular. Esse material será indicado na aula apropriada. Isso não impede que os alunos explorem eles a qualquer tempo que desejarem -  é recomendado que o façam. Esta lista é dinâmica, novos materiais podem adicionados e links podem ser removidos ao longo do tempo. Os alunos da unidade curricular podem, inclusive, complementar a lista adicionando links para outros materiais que encontrarem na Internet. Para isso, façam _pull request_. Os materiais encontram-se organizados em duas categorias, que são:
