@@ -13,6 +13,7 @@
 1. [:notebook: Paradigmas da Interação Humano-Computador e Recomendações Ergonômicas](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-04-Paradigmas%20da%20interacao%20humano-computador.pdf)
 1. [:notebook: Uma Breve Introdução à Estética e seu Contexto em IHC](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-05-Est%C3%A9tica%20em%20IHC.pdf)
 1. [:notebook: Regras de Ouro do Design de Interação](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-06-Regras%20de%20ouro%20do%20design%20de%20intera%C3%A7%C3%A3o.pdf)
+1. [:notebook: A Prática de Design em IHC](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-07-Design%20em%20IHC.pdf)
 
 ## Cartão de Suporte
 
