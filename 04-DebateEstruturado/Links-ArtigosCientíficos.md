@@ -15,6 +15,18 @@
 * [Will They Use It or Not? Investigating Software Developers’ Intention to Follow Privacy Engineering Methodologies](https://doi.org/10.1145/3364224)
 
 * [Designing for Pragmatists and Fundamentalists: Privacy Concerns and Attitudes on the Internet of Things](https://dl.acm.org/doi/10.1145/3160504.3160545)
+
 * [The privacy implications of social robots: Scoping review and expert interviews](https://doi.org/10.1177/2050157919843961)
+
+--- 
+
+* [How do adolescents cope with cyberhate? Psychometric properties and socio-demographic differences of a coping with cyberhate scale](https://www.sciencedirect.com/science/article/pii/S0747563219303796)
+
+* [Do you filter who you are?: Excessive self-presentation, social cues, and user evaluations of Instagram selfies](https://www.sciencedirect.com/science/article/pii/S0747563219303711)
+
+* [Computational thinking education: Issues and challenges](https://www.sciencedirect.com/science/article/pii/S0747563219303978)
+
+
+---
 
 _Lesandro Ponciano (lesandrop at pucminas.br) - PUC Minas_

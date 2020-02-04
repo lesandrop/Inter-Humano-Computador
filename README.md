@@ -51,5 +51,6 @@ Neste repositório está o material da unidade curricular que pode ser mantido p
 
 Os estudantes da unidade curricular podem contribuir com correções e sugestões neste repositório por meio de _pull requests_, _issues_ e _comentários_. Tais contribuições poderão, ao fim do semestre, após análise do professor, serem pontuadas com até 3 pontos extras :nerd_face: na unidade curricular. Serão levadas em consideração quatro métricas de engajamento: _activity ratio_, _relative activity duration_, _daily devoted time_, e _variation in periodicity_. Para saber mais sobre essas métricas, leia o artigo [Finding Volunteers' Engagement Profiles in Human Computation for Citizen Science Projects](http://dx.doi.org/10.15346/hc.v1i2.12).
 
+---
 
 _Lesandro Ponciano (lesandrop at pucminas.br) - PUC Minas_
