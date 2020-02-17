@@ -15,6 +15,8 @@ Neste _assignment_ o estudante deve pesquisar 5 sistemas que existiam gratuitame
 
 * O estudante pode usar até 2 dos sistemas entre aqueles que [já foram enumerados pelo professor](https://github.com/ihc-puc-20201/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/SistemasDoPassado.md). Os outros três sistemas, devem ser identificados pelo estudante.
 
+* As respostas do estudante devem ser providas como texto de um _issue_ no repositório gerado para o _assignment_.
+
 ---
 
 _Lesandro Ponciano (lesandrop at pucminas.br) PUC Minas_
