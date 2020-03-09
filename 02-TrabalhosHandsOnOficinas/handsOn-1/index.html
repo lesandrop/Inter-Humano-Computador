@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="styles.css" />
+    <title>Sistema AquiLogística</title>
+</head>
+<body>
+    <header>
+        <h1>Sistema AquiLogística</h1>
+        <h2>Cadastro de Operadores</h2>
+    </header>
+    <div class="container">
+        <div class="button-zone">
+			<button>Cancelar</button>
+			<button>Salvar</button>
+		</div>
+		<form action="">
+            <h3>Dados Pessoais</h3>
+            <div class="column-a">
+                <label for="op-nome" >Nome</label><br />
+                <input name="nome" type="text" id="op-nome" />
+                
+                <div class="half-column">
+                    <label for="op-cpf" >CPF</label><br />
+                    <input name="cpf" type="text" id="op-cpf" placeholder="     .     .     -    " />
+                </div>
+                <div class="half-column">
+                    <label for="op-dtnascimento" >Data de Nascimento</label><br />
+                    <input name="dtnascimento" type="text" id="op-dtnascimento" placeholder="      /      /    " />
+                </div>
+                
+                <label for="op-formacao" >Formação Acadêmica</label><br />
+                <select name="formacao" id="op-formacao" >
+                    <option value="<null>"></option>
+                    <option value="1">Ensino fundamental incompleto</option>
+					<option value="1">Ensino fundamental completo</option>
+					<option value="1">Ensino médio incompleto</option>
+					<option value="1">Ensino médio completo</option>
+					<option value="1">Ensino superior incompleto</option>
+					<option value="1">Ensino superior completo</option>
+                </select>
+            </div>
+            <div class="column-b">
+                <span>Gênero</span><br/>
+                <input name="genero" id="masc" type="radio" />
+                <label for="masc" >Masculino</label><br/>
+                <input name="genero" id="fem" type="radio" />
+                <label for="fem" >Feminino</label><br/>
+                <input name="genero" id="outros" type="radio" />
+                <label for="outros" >Outros</label><br/>
+            </div>
+
+            <h3>Alocação do Operador</h3>
+            <div class="column-a">
+                <label for="op-setor" >Setor</label><br />
+                <select name="setor" id="op-setor" >
+					<option value=""></option>
+					<option value="1">Entrada</option>
+					<option value="2">Saída</option>
+					<option value="3">Armazenagem</option>				
+				</select>
+                <label for="op-cidade" >Cidade</label><br />
+                <input name="cidade" type="text" id="op-cidade" />                   
+            </div>
+            <div class="column-b">
+                <label for="op-telefone" >Telefone</label><br />
+                <input name="telefone" type="text" id="op-telefone" placeholder="(    )           -   " /><br />
+                <label for="op-uf" >Estado</label><br />
+                <select name="estado" type="text" id="op-uf" >
+                    <option value="<null>"></option>
+					<option value="AC" >Acre</option>
+					<option value="AL" >Alagoas</option>
+					<option value="AP" >Amapá</option>
+					<option value="AM" >Amazonas</option>
+					<option value="BA" >Bahia</option>
+					<option value="CE" >Ceará</option>
+					<option value="DF" >Distrito Federal</option>
+					<option value="ES" >Espírito Santo</option>
+					<option value="GO" >Goiás</option>
+					<option value="MA" >Maranhão</option>
+					<option value="MT" >Mato Grosso</option>
+					<option value="MS" >Mato Grosso do Sul</option>
+                    <option value="MG" selected="true">Minas Gerais</option>
+					<option value="PA" >Pará</option>
+					<option value="PB" >Paraíba</option>
+					<option value="PR" >Paraná</option>
+					<option value="PE" >Pernambuco</option>
+					<option value="PI" >Piauí</option>
+					<option value="RJ" >Rio de Janeiro</option>
+					<option value="RN" >Rio Grande do Norte</option>
+					<option value="RS" >Rio Grande do Sul</option>
+					<option value="RO" >Rondônia</option>
+					<option value="RR" >Roraima</option>
+					<option value="SC" >Santa Catarina</option>
+					<option value="SP" >São Paulo</option>
+					<option value="SE" >Sergipe</option>
+					<option value="TO" >Tocantins</option>
+                </select>
+            </div>
+
+            <h3>Contato pessoal</h3>
+            <div class="column-a">
+                <label for="op-nomecontato" >Nome</label><br />
+                <input name="nomecontato" type="text" id="op-nomecontato" />
+                <label for="op-parentesco" >Grau de Parentesco</label><br />
+                <select name="parentesco" id="op-parentesco" >
+					<option value=""></option>
+					<option value="1">Nenhum</option>
+					<option value="2">Primeiro Grau</option>
+					<option value="3">Segundo Grau</option>
+				</select>
+            </div>
+            <div class="column-b">
+                <label for="op-telefonecontato" >Telefone Residencial</label><br />
+                <input name="telefonecontato" type="text" id="op-telefonecontato" placeholder="(    )           -   " /><br />
+                <label for="op-celularcontato" >Telefone Celular</label><br />
+                <input name="celularcontato" type="text" id="op-celularcontato" placeholder="(    )           -   " />
+            </div>
+			<div class="button-zone">
+				<button>Cancelar</button>
+				<button>Salvar</button>
+			</div>
+        </form>
+    </div>
+</body>
+</html>

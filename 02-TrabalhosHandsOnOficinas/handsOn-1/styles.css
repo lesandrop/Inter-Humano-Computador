@@ -1,0 +1,95 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: darkblue;
+    padding: 15px 0;
+}
+
+header h1, header h2 {
+    font-weight: bolder;
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+
+
+.container {
+    background-color: rgb(0,0,0,0.05);
+    width: 100%;
+    min-height: 300px;
+    padding: 10px;
+}
+
+.container h3 {
+    margin: 0;
+}
+
+.column-a, .column-b {
+    margin: 10px 0;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.column-a {
+    width: 50%;
+}
+
+.column-b {
+    width: 40%;
+}
+
+#op-nome, #op-dtnascimento, #op-cidade, #op-cpf, #op-nomecontato, #op-parentesco {
+    width: 98%;
+}
+
+
+
+#op-uf {
+    height: 25px;
+    font-size: 11pt;
+    width: 33%;
+}
+
+#op-formacao, #op-setor, #op-parentesco {
+    height: 25px;
+    font-size: 11pt;
+    width: 99%;
+	margin-bottom: 5px;
+}
+
+#op-dtnascimento {
+	width: 100%;
+}
+
+input[type=radio] {
+	width: 20px;
+	height: 20px;
+	margin-bottom: 10px;
+}
+
+.half-column {
+    display: inline-block;
+    width: 48.8%
+}
+
+input {
+    height: 20px;
+    font-size: 11pt;
+	margin-bottom: 5px;
+}
+
+.button-zone {
+	text-align: right;
+	margin-right: 15px;
+}
+
+button {
+	height: 30px;
+	font-size: 12pt;
+	font-weight: bolder;
+	background-color: darkblue;
+	border-color: darkblue;
+	color: white;
+}
