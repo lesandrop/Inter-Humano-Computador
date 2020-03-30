@@ -2,11 +2,11 @@
 
 ## Usuário, objetivo e contexto de uso
 
-* Neste _assignment_ o estudante deve implementar o sistema que atenda à demanda abaixo.
+* Neste _assignment_ o estudante deve implementar um sistema que atenda à demanda abaixo.
 
-> Ciula Barros  (48 anos) ela é professora de matemática. Neste ano, ela está ensinando matemática para crianças. Seus alunos têm faixa etária de 9 a 11 anos. A turma é composta de aproximadamente 50% meninos e 50% meninas. Eles são alunos curiosos e dedicados, mas também são dispersos e se detraem com facilidade. Atenciosa, a professora deseja que aprender matemática seja uma atividade empolgante, alegre, agradável e engajante para as crianças. Uma vez que as aulas presenciais estão suspensas em razão da pandemia de Coronavírus, boa parte desse estudo de matemática é feito pelos estudantes, em casa, em um computador pessoal, com ajuda de um sistema Web. Segundo ela, para ser efetivo, o sistema deve ser engajante.
+> Ciula Barros  (48 anos) é professora de matemática. Neste ano, ela está ensinando matemática para crianças. Seus alunos têm faixa etária de 9 a 11 anos. A turma é composta de aproximadamente 50% meninos e 50% meninas. Eles são alunos curiosos e dedicados, mas também são dispersos e se detraem com facilidade. Atenciosa, a professora deseja que aprender matemática seja uma atividade empolgante, alegre, agradável e engajante para as crianças. Uma vez que as aulas presenciais estão suspensas em razão da pandemia de Coronavírus, boa parte desse estudo de matemática é feito pelos estudantes em casa, em um computador pessoal, com ajuda de um sistema Web. Segundo ela, para ser efetivo, o sistema deve ser engajante.
 
-> A pedido dessa professora, você deve projetar e implementar uma calculadora que contemple as operações de soma, subtração, multiplicação e divisão. Ou seja, os alunos poderão aprender sobre essas operações ao usar a calcula no sistema. O aluno deve ter a possibilidade de inserir os valores que ele desejar e obter do sistema a resposta apropriada. 
+> A pedido dessa professora, você deve projetar e implementar um sistema Web que é uma calculadora que contemple as operações de soma, subtração, multiplicação e divisão. Ou seja, os alunos poderão aprender sobre essas operações ao usar a calcula no sistema. O aluno deve ter a possibilidade de inserir os valores que ele desejar e obter do sistema a resposta apropriada. 
 
 * A calculadora deve ser implementada para o ambiente Web, conforme estudado na disciplina IHC, deve seguir rigorosamente os seguintes itens:
 	1. **Estética**: o sistema deve ter uma identidade construída a partir de harmonização de fontes, cores e imagens
@@ -21,9 +21,9 @@
 	* Criar uma pasta chamada _assignment1_
 	* Dentro dessa pasta, deve-se colocar:
 		* O sistema produzido (HTML, CSS e javascript)
-		* Texto em _markdown_ explicando como os itens enumerados acima foram considerados implementados
+		* Texto em _markdown_ explicando como os itens enumerados acima foram considerados/implementados
 
-A entrega final no repositório deve ser feita até as 23:59 do dia 05/04/2020.
+A entrega final no repositório deve ser feita até as 23:59 do dia 08/04/2020.
 
 ---
 
