@@ -14,6 +14,8 @@
 1. [:notebook: Uma Breve Introdução à Estética e seu Contexto em IHC](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-05-Est%C3%A9tica%20em%20IHC.pdf)
 1. [:notebook: Regras de Ouro do Design de Interação](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-06-Regras%20de%20ouro%20do%20design%20de%20intera%C3%A7%C3%A3o.pdf)
 1. [:notebook: A Prática de Design em IHC](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-07-Design%20em%20IHC.pdf)
+1. [:notebook: Regras de Ouro do Design de Interação](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-06-Regras%20de%20ouro%20do%20design%20de%20intera%C3%A7%C3%A3o.pdf)
+1. [:notebook: Identificação das Necessidades dos Usuários e dos Requisitos de IHC](https://github.com/ihc-puc-20201/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-09-Necessidades%20e%20Requisitos%20de%20IHC.pdf)
 
 ## Cartão de Suporte
 
