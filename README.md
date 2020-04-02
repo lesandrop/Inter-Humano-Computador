@@ -24,6 +24,14 @@ Criei um cartão de suporte que serve como resumo do conteúdo estudado ao longo
 
 Os estudantes que desejarem entender melhor como o Cartão de Suporte é criado e como ele pode ser usado para melhorar o aproveitamento acadêmico nos conteúdos de interação humano-computador, sugiro lerem o artigo [HCI Support Card: Creating and Using a Support Card for Education in Human-Computer Interaction](https://doi.org/10.5753/ihc.2019.8409).
 
+## Assignments e hands-on
+
+1. [Hands-on 1](https://github.com/ihc-puc-20201/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/IHC-Hands-on1.pdf): Aspectos teóricos no projeto e implementação de interfaces
+1. [Hands-on 2](https://github.com/ihc-puc-20201/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/IHC-Hands-on2.pdf): Esboço de cartão de suporte a ser usado por designers em atividades diárias
+
+1. [Assignment  set-up](https://github.com/ihc-puc-20201/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/assignment_ihc-setup.md): A Internet está chata? Análise de sistemas do passado
+1. [Assignment  1](https://github.com/ihc-puc-20201/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/assignment_ihc-1.md): Projeto e implementação de interface e interação levando em conta usuário, objetivo e contexto de uso
+
 ## Debate Estruturado
 
 É tradição organizar o [Debate Estruturado](https://doi.org/10.5753/ihc.2018.4209) na unidade curricular. O propósito do debate é discutir tópicos de interação e interface que envolvem valores humanos. O debate também é uma forma de aproximar o estudante da produção científica na vanguarda na área de IHC. O debate consiste em uma fase de preparação, com a leitura e fichamento de dois artigos científicos, e uma fase de execução, com uma dinâmica de parlamento inglês realizada em sala de aula. Os estudantes que desejarem conhecer de antemão os detalhes da dinâmica do debate pode ler o artigo [Debate Estruturado: Uma Estratégia Pedagógica para Ensino e Aprendizagem de Valores Humanos em Interação Humano-Computador](https://doi.org/10.5753/ihc.2018.4209). A lista de [artigos científicos candidatos para debate de 2020.1.](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/04-DebateEstruturado/Links-ArtigosCient%C3%ADficos.md) está disponível. Abaixo estão as informações específicas de cada debate.
