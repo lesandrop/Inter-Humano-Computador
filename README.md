@@ -26,9 +26,11 @@ Os estudantes que desejarem entender melhor como o Cartão de Suporte é criado 
 
 ## Assignments e hands-on
 
+Atividades hands-on
 1. [Hands-on 1](https://github.com/ihc-puc-20201/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/IHC-Hands-on1.pdf): Aspectos teóricos no projeto e implementação de interfaces
 1. [Hands-on 2](https://github.com/ihc-puc-20201/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/IHC-Hands-on2.pdf): Esboço de cartão de suporte a ser usado por designers em atividades diárias
 
+Atividades assignments
 1. [Assignment  set-up](https://github.com/ihc-puc-20201/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/assignment_ihc-setup.md): A Internet está chata? Análise de sistemas do passado
 1. [Assignment  1](https://github.com/ihc-puc-20201/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/assignment_ihc-1.md): Projeto e implementação de interface e interação levando em conta usuário, objetivo e contexto de uso
 
