@@ -42,7 +42,7 @@ Atividades assignments
 
 * [Debate Estruturado 1](https://github.com/ihc-puc-20201/Inter-Humano-Computador/blob/master/04-DebateEstruturado/IHC-DebateEstruturado1.pdf)
 
-* Debate Estruturado 2
+* [Debate Estruturado 2](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/04-DebateEstruturado/IHC-DebateEstruturado2.pdf)
 
 ## Material online
 Fiz a curadoria de alguns materiais online sobre interação humano-computador. São materiais complementares que considero úteis à unidade curricular. Esse material será indicado na aula apropriada. Isso não impede que os alunos explorem eles a qualquer tempo que desejarem -  é recomendado que o façam. Esta lista é dinâmica, novos materiais podem adicionados e links podem ser removidos ao longo do tempo. Os alunos da unidade curricular podem, inclusive, complementar a lista adicionando links para outros materiais que encontrarem na Internet. Para isso, façam _pull request_. Os materiais encontram-se organizados em duas categorias, que são:
