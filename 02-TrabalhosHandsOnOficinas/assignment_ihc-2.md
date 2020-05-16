@@ -2,11 +2,11 @@
 
 ## Análise da Situação Atual e Proposta de Intervenção
 
-* Neste _assignment_ o estudante deve elaborar um questionário a ser usado em uma entrevista estruturada de análise da situação atual e proposta de intervenção. O contexto do sistema é o mesmo do [Assigment 1](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/assignment_ihc-1.md). Considerando esse contexto, parte-se, neste assignment, do sistema A, implementado pela aluna Dayane (https://dayanecordeiro.github.io/calculator.html), ou do sistema B, implementado pelo aluno Victor Seara (https://victorseara.github.io/kids-calculator/). O questionário a ser elaborado deve:
+* Neste _assignment_ o estudante deve elaborar um questionário a ser usado em uma entrevista estruturada de análise da situação atual e proposta de intervenção. O contexto do sistema é o mesmo do [Assignment 1](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/assignment_ihc-1.md). Considerando esse contexto, parte-se, neste assignment, do sistema A, implementado pela aluna Dayane (https://dayanecordeiro.github.io/calculator.html), ou do sistema B, implementado pelo aluno Victor Seara (https://victorseara.github.io/kids-calculator/). O questionário a ser elaborado deve:
 
 1. investigar alterações no sistema a fim de contemplar ideias implementadas no outro e também para contemplar ideias de explicação dos resultado dos cálculos (como explicar a soma a partir de multiplicações e explicar a divisão a partir de subtrações);
 
-1. ser composto de pelo 5 questões envolvendo questões do tipo _likert scale_ de 5 pontos e questões de diferenciais semânticos;
+1. ser composto de pelo menos 5 questões envolvendo questões do tipo _likert scale_ de 5 pontos e questões de diferenciais semânticos;
 
 1. conter avaliações de ideias, como protótipos da intervenção que está sendo proposta e mudanças em interface;
 
