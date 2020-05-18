@@ -16,6 +16,14 @@
 1. [:notebook: A Prática de Design em IHC](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-07-Design%20em%20IHC.pdf)
 1. [:notebook: Regras de Ouro do Design de Interação](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-06-Regras%20de%20ouro%20do%20design%20de%20intera%C3%A7%C3%A3o.pdf)
 1. [:notebook: Identificação das Necessidades dos Usuários e dos Requisitos de IHC](https://github.com/ihc-puc-20201/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-09-Necessidades%20e%20Requisitos%20de%20IHC.pdf)
+1. [:notebook: Prototipação em IHC](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-11-Prototipa%C3%A7%C3%A3o%20em%20IHC.pdf)
+1. [:notebook: Introdução à Avaliação de Sistemas Interativos](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-12-Introdu%C3%A7%C3%A3o%20a%20Avalia%C3%A7%C3%A3o%20em%20IHC.pdf)
+1. [:notebook: Avaliação Heurística](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-13-Avalia%C3%A7%C3%A3oHeur%C3%ADstica.pdf)
+1. [:notebook: Método de Avaliação do Percurso Cognitivo](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-14-M%C3%A9todoDeAvalia%C3%A7%C3%A3oDoPercursoCognitivo.pdf)
+1. [:notebook: Método de Inspeção Semiótica](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-15-M%C3%A9todoDeInspe%C3%A7%C3%A3oSemi%C3%B3tica.pdf)
+1. [:notebook: Teste de Usabilidade](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-16-TesteDeUsabilidade.pdf)
+1. [:notebook: Método de Avaliação da Comunicabilidade](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-17-M%C3%A9todoDeAvalia%C3%A7%C3%A3oDaComunicabilidade.pdf)
+
 
 ## Cartão de Suporte
 
