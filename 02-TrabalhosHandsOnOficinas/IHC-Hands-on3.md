@@ -11,7 +11,7 @@ https://play.google.com/store/apps/details?id=br.gov.datasus.guardioes&hl=pt_BR)
 
 O aluno deve entregar todos os artefatos no repositório no GitHub classroom. A pasta deve se chamar "hands-on3". Nela deve conter as respostas obtidas para o questionário, em formato CSV. A implementação do cálculo do SUS score. Um arquivo markdown com um relatório que contenha uma explicação detalhada do que se pede os 4 tópicos acima
 
-A entrega final no repositório deve ser feita até as 23:59 do dia 31/05/2020.
+Esse hands-on vale 3 pontos. A entrega final no repositório deve ser feita até as 23:59 do dia 31/05/2020.
 
 ---
 
