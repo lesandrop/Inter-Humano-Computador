@@ -24,6 +24,8 @@
 1. [:notebook: Método de Inspeção Semiótica](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-15-M%C3%A9todoDeInspe%C3%A7%C3%A3oSemi%C3%B3tica.pdf)
 1. [:notebook: Teste de Usabilidade](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-16-TesteDeUsabilidade.pdf)
 1. [:notebook: Método de Avaliação da Comunicabilidade](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-17-M%C3%A9todoDeAvalia%C3%A7%C3%A3oDaComunicabilidade.pdf)
+1. [:notebook: System Usability Scale (SUS)](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-18-SystemUsabilityScale.pdf)
+1. [:notebook: Comparação de Métodos de Avaliação](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-19-Avalia%C3%A7%C3%A3oCompara%C3%A7%C3%A3o.pdf)
 
 
 ## Cartão de Suporte
@@ -38,12 +40,14 @@ Os estudantes que desejarem entender melhor como o Cartão de Suporte é criado 
 ## Assignments e hands-on
 
 Atividades hands-on
-1. [Hands-on 1](https://github.com/ihc-puc-20201/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/IHC-Hands-on1.pdf): Aspectos teóricos no projeto e implementação de interfaces
-1. [Hands-on 2](https://github.com/ihc-puc-20201/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/IHC-Hands-on2.pdf): Esboço de cartão de suporte a ser usado por designers em atividades diárias
+1. [Hands-on 1](https://github.com/ihc-puc-20201/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/IHC-Hands-on1.pdf): Aspectos teóricos no projeto e implementação de interfaces.
+1. [Hands-on 2](https://github.com/ihc-puc-20201/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/IHC-Hands-on2.pdf): Esboço de cartão de suporte a ser usado por designers em atividades diárias.
+1. [Hands-on 3](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/IHC-Hands-on3.md): Avaliação de uma aplicação sobre o Coronavírus usando o método _System Usability Scale (SUS)_.
 
 Atividades assignments
 1. [Assignment  set-up](https://github.com/ihc-puc-20201/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/assignment_ihc-setup.md): A Internet está chata? Análise de sistemas do passado
-1. [Assignment  1](https://github.com/ihc-puc-20201/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/assignment_ihc-1.md): Projeto e implementação de interface e interação levando em conta usuário, objetivo e contexto de uso
+1. [Assignment  1](https://github.com/ihc-puc-20201/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/assignment_ihc-1.md): Projeto e implementação de interface e interação levando em conta usuário, objetivo e contexto de uso.
+1. [Assignment 2](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/assignment_ihc-2.md). Análise da Situação Atual e Proposta de Intervenção.
 
 ## Debate Estruturado
 
