@@ -26,7 +26,8 @@ Lista de sistemas gratuitos (sites, aplicativos, etc) baseados na Internet, que 
 1. [Vine](https://pt.wikipedia.org/wiki/Vine_(servi%C3%A7o))
 1. [Ping](https://en.wikipedia.org/wiki/ITunes_Ping)
 1. [Picnik](https://pt.wikipedia.org/wiki/Picnik)
-
+1. [Citeulike](https://en.wikipedia.org/wiki/CiteULike)
+1. [CrowdCrafting](https://en.wikipedia.org/wiki/Citizen_science)
 ---
 
 _Lesandro Ponciano (lesandrop at pucminas.br) - PUC Minas_
