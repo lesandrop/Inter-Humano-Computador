@@ -8,15 +8,12 @@
 ### Fundamentos teóricos de interação humano-computador
 
 1. [:tv: Google I/O 2013 - Cognitive Science and Design](https://www.youtube.com/watch?v=z2exxj4COhU)
-
 1. [:tv: Why Beauty Matters? (Por que a beleza importa?) Roger Scruton](https://www.youtube.com/watch?v=bHw4MMEnmpc)
 
 ### Design da interface e da interação
 
 1. [:tv: Café Communications -- Deadlines](https://www.youtube.com/watch?v=jgvx9OfZKJw)
-
 1. [:tv: Prototipagem em Papel - Paper Prototyping Tutorial](https://www.youtube.com/watch?v=k9mTvt0LXgk)
-
 1. Protótipos em vídeo [:tv: Sistema Pulso](https://youtu.be/TWXc-a3uPIk) e [:tv: Sistema Lumen](https://youtu.be/pI7LEZ3AsOg)
 
 ### Avaliação de IHC - Interface e interação

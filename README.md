@@ -38,16 +38,16 @@ Os estudantes que desejarem entender melhor como o Cartão de Suporte é criado 
 ## Assignments e hands-on
 
 Atividades hands-on
-1. Hands-on 1
-1. Hands-on 1
-1. Hands-on 1
-1. Hands-on 1
+* Hands-on 1
+* Hands-on 2
+* Hands-on 3
 
 Atividades assignments
-1. Assignment  set-up
-1. Assignment  set-up
-1. Assignment  set-up
-1. Assignment  set-up
+* Assignment  set-up
+* Assignment  1
+* Assignment  2
+* Assignment  3
+* Assignment  4
 
 ## Debate Estruturado
 
