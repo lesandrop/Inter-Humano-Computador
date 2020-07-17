@@ -3,11 +3,11 @@
 * Curso: **Engenharia de Software na PUC Minas - Praça da Liberdade**
 * Turno: **Noturno**
 * Prof.: **Lesandro Ponciano**   [[Lattes iD](http://lattes.cnpq.br/2211388362277178)] - [[Orcid iD](http://orcid.org/0000-0002-5724-0094)]
-* Semestre: **2020.1**
+* Semestre: **2020.2**
 * Período: **4º período do curso**
 
 ## Slides das Aulas Expositivas
-1. [:notebook: Nivelamento](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-01-Nivelamento.pdf)
+1. [:notebook: Nivelamento](01-SlidesDasAulas/IHC-01-Nivelamento.pdf)
 1. [:notebook: Conceitos de Projeto e Avaliação de Sistemas Interativos](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-02-Conceito%20de%20interface%20e%20de%20design%20da%20intera%C3%A7%C3%A3o.pdf)
 1. [:notebook: Abordagens Teóricas em IHC](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-03-Abordagens%20Teoricas%20em%20IHC.pdf)
 1. [:notebook: Paradigmas da Interação Humano-Computador e Recomendações Ergonômicas](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-04-Paradigmas%20da%20interacao%20humano-computador.pdf)
@@ -27,7 +27,6 @@
 1. [:notebook: System Usability Scale (SUS)](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-18-SystemUsabilityScale.pdf)
 1. [:notebook: Comparação de Métodos de Avaliação](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/01-SlidesDasAulas/IHC-19-Avalia%C3%A7%C3%A3oCompara%C3%A7%C3%A3o.pdf)
 
-
 ## Cartão de Suporte
 
 Criei um cartão de suporte que serve como resumo do conteúdo estudado ao longo de todo o semestre. Ele é usado durante as aulas e em atividades. O conteúdo neste cartão não é exaustivo, mas o conteúdo coberto no cartão serve de ancora para o conteúdo que não foi incluído. Você pode acessá-lo nos links abaixo.
@@ -40,22 +39,23 @@ Os estudantes que desejarem entender melhor como o Cartão de Suporte é criado 
 ## Assignments e hands-on
 
 Atividades hands-on
-1. [Hands-on 1](https://github.com/ihc-puc-20201/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/IHC-Hands-on1.pdf): Aspectos teóricos no projeto e implementação de interfaces.
-1. [Hands-on 2](https://github.com/ihc-puc-20201/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/IHC-Hands-on2.pdf): Esboço de cartão de suporte a ser usado por designers em atividades diárias.
-1. [Hands-on 3](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/IHC-Hands-on3.md): Avaliação de uma aplicação sobre o Coronavírus usando o método _System Usability Scale (SUS)_.
+1. Hands-on 1
+1. Hands-on 1
+1. Hands-on 1
+1. Hands-on 1
 
 Atividades assignments
-1. [Assignment  set-up](https://github.com/ihc-puc-20201/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/assignment_ihc-setup.md): A Internet está chata? Análise de sistemas do passado
-1. [Assignment  1](https://github.com/ihc-puc-20201/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/assignment_ihc-1.md): Projeto e implementação de interface e interação levando em conta usuário, objetivo e contexto de uso.
-1. [Assignment 2](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/assignment_ihc-2.md). Análise da Situação Atual e Proposta de Intervenção.
+1. Assignment  set-up
+1. Assignment  set-up
+1. Assignment  set-up
+1. Assignment  set-up
 
 ## Debate Estruturado
 
 É tradição organizar o [Debate Estruturado](https://doi.org/10.5753/ihc.2018.4209) na unidade curricular. O propósito do debate é discutir tópicos de interação e interface que envolvem valores humanos. O debate também é uma forma de aproximar o estudante da produção científica na vanguarda na área de IHC. O debate consiste em uma fase de preparação, com a leitura e fichamento de dois artigos científicos, e uma fase de execução, com uma dinâmica de parlamento inglês realizada em sala de aula. Os estudantes que desejarem conhecer de antemão os detalhes da dinâmica do debate pode ler o artigo [Debate Estruturado: Uma Estratégia Pedagógica para Ensino e Aprendizagem de Valores Humanos em Interação Humano-Computador](https://doi.org/10.5753/ihc.2018.4209). A lista de [artigos científicos candidatos para debate de 2020.1.](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/04-DebateEstruturado/Links-ArtigosCient%C3%ADficos.md) está disponível. Abaixo estão as informações específicas de cada debate.
 
-* [Debate Estruturado 1](https://github.com/ihc-puc-20201/Inter-Humano-Computador/blob/master/04-DebateEstruturado/IHC-DebateEstruturado1.pdf)
-
-* [Debate Estruturado 2](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/04-DebateEstruturado/IHC-DebateEstruturado2.pdf)
+* Debate Estruturado 1
+* Debate Estruturado 2
 
 ## Material online
 Fiz a curadoria de alguns materiais online sobre interação humano-computador. São materiais complementares que considero úteis à unidade curricular. Esse material será indicado na aula apropriada. Isso não impede que os alunos explorem eles a qualquer tempo que desejarem -  é recomendado que o façam. Esta lista é dinâmica, novos materiais podem adicionados e links podem ser removidos ao longo do tempo. Os alunos da unidade curricular podem, inclusive, complementar a lista adicionando links para outros materiais que encontrarem na Internet. Para isso, façam _pull request_. Os materiais encontram-se organizados em duas categorias, que são:
