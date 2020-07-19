@@ -1,7 +1,9 @@
 # DEBATE ESTRUTURADO
 
-## Disciplina: Interação Humano-Computador - 2020.2
-## Curso: Engenharia de Software - PUC Minas - Praça da Liberdade
+__Lesandro Ponciano__
+
+_Disciplina_: Interação Humano-Computador - 2020.2
+_Curso_: Engenharia de Software - PUC Minas - Praça da Liberdade
 
 
 ## Debate Estruturado sobre Fatores Humanos em Sistemas de Software
