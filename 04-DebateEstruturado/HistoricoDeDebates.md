@@ -1,6 +1,6 @@
 # Histórico de Debates Estruturados em IHC no Curso de Engenharia de Software da PUC Minas
 
-Lesandro Ponciano
+__Lesandro Ponciano__
 
 ## Resumo
 _A disciplina de Interação Humano-Computador (IHC) ocorre semestralmente no curso graduação em Engenharia de Software da PUC Minas. A cada semestre são realizados 2 Debates Estruturados (Ponciano 2018). Neste documento são mantidas as informações dos artigos debatidos em cada um desses debates desde a primeira edição no segundo semestre de 2017._
