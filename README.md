@@ -8,7 +8,8 @@
 
 ## Slides das Aulas Expositivas
 1. [:notebook: Nivelamento](01-SlidesDasAulas/IHC-01-Nivelamento.pdf)
-1. [:notebook: Conceitos de Projeto e Avaliação de Sistemas Interativos](01-SlidesDasAulas/IHC-03-Abordagens%20Teoricas%20em%20IHC.pdf)
+1. [:notebook: Conceitos de Projeto e Avaliação de Sistemas Interativos](01-SlidesDasAulas/IHC-02-Conceito%20de%20interface%20e%20de%20design%20da%20interação.pdf)
+1. [:notebook: Abordagens Teóricas em IHC](01-SlidesDasAulas/IHC-03-Abordagens%20Teoricas%20em%20IHC.pdf)
 1. [:notebook: Paradigmas da Interação Humano-Computador e Recomendações Ergonômicas](01-SlidesDasAulas/IHC-04-Paradigmas%20da%20interacao%20humano-computador.pdf)
 1. [:notebook: Uma Breve Introdução à Estética e seu Contexto em IHC](01-SlidesDasAulas/IHC-05-Est%C3%A9tica%20em%20IHC.pdf)
 1. [:notebook: Regras de Ouro do Design de Interação](01-SlidesDasAulas/IHC-06-Regras%20de%20ouro%20do%20design%20de%20intera%C3%A7%C3%A3o.pdf)
