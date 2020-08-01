@@ -14,7 +14,7 @@
 1. [:notebook: Uma Breve Introdução à Estética e seu Contexto em IHC](01-SlidesDasAulas/IHC-05-Est%C3%A9tica%20em%20IHC.pdf)
 1. [:notebook: Regras de Ouro do Design de Interação](01-SlidesDasAulas/IHC-06-Regras%20de%20ouro%20do%20design%20de%20intera%C3%A7%C3%A3o.pdf)
 1. [:notebook: A Prática de Design em IHC](01-SlidesDasAulas/IHC-07-Design%20em%20IHC.pdf)
-1. [:notebook: Regras de Ouro do Design de Interação](01-SlidesDasAulas/IHC-06-Regras%20de%20ouro%20do%20design%20de%20intera%C3%A7%C3%A3o.pdf)
+1. [:notebook: Processos de Design em IHC](01-SlidesDasAulas/IHC-08-ES-Processos%20de%20Design%20de%20Software%20para%20Uso%20por%20Humanos.pdf)
 1. [:notebook: Identificação das Necessidades dos Usuários e dos Requisitos de IHC](01-SlidesDasAulas/IHC-09-Necessidades%20e%20Requisitos%20de%20IHC.pdf)
 1. [:notebook: Organização do Espaço do Problema](01-SlidesDasAulas/IHC-10-Organizacao%20do%20espaco%20do%20problema.pdf)
 1. [:notebook: Prototipação em IHC](01-SlidesDasAulas/IHC-11-Prototipa%C3%A7%C3%A3o%20em%20IHC.pdf)
