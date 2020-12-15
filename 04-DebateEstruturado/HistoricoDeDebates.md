@@ -1,12 +1,16 @@
 # Histórico de Debates Estruturados em IHC no Curso de Engenharia de Software da PUC Minas
 
-__Lesandro Ponciano__
+__Lesandro Ponciano (PUC Minas)__
 
 ## Resumo
 _A disciplina de Interação Humano-Computador (IHC) ocorre semestralmente no curso graduação em Engenharia de Software da PUC Minas. A cada semestre são realizados 2 Debates Estruturados (Ponciano 2018). Neste documento são mantidas as informações dos artigos debatidos em cada um desses debates desde a primeira edição no segundo semestre de 2017._
 
 ## Lista de artigos debatidos por ano e semestre
 
+* 2020-2sem - Debate Estruturado 1 -[CodeMaster UI design - app inventor: a rubric for the assessment of the interface design of Android apps developed with app inventor](https://doi.org/10.1145/3357155.3358463)
+* 2020-2sem - Debate Estruturado 1 -[Creating Chatbots to talk with humans: HCI evaluations and perspectives](https://doi.org/10.1145/3357155.3358460)
+* 2020-2sem - Debate Estruturado 2 -[O problema da explicação em Inteligência Artificial: considerações a partir da semiótica](https://revistas.pucsp.br/teccogs/article/view/48590)
+* 2020-2sem - Debate Estruturado 2 -Exploring User Profiles Based on their Explainability Requirements in Interactive Systems
 * 2020-1sem - Debate Estruturado 1 -[How do adolescents cope with cyberhate? Psychometric properties and socio-demographic differences of a coping with cyberhate scale](https://www.sciencedirect.com/science/article/pii/S0747563219303796)
 * 2020-1sem - Debate Estruturado 1 -[Do you filter who you are?: Excessive self-presentation, social cues, and user evaluations of Instagram selfies](https://www.sciencedirect.com/science/article/pii/S0747563219303711)
 * 2020-1sem - Debate Estruturado 2 -[This Changes Sustainable HCI](https://doi.org/10.1145/3173574.3174045)
