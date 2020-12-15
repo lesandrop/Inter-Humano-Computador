@@ -38,24 +38,12 @@ Os estudantes que desejarem entender melhor como o Cartão de Suporte é criado 
 
 ## Assignments e hands-on
 
-Atividades hands-on
-* Hands-on 1
-* Hands-on 2
-* Hands-on 3
-
-Atividades assignments
-* Assignment  set-up
-* Assignment  1
-* Assignment  2
-* Assignment  3
-* Assignment  4
+Ao longo do semestre são realizadas atividades práticas de design e avaliação definidas como _hands-on_ e atividades teóricas sobre o conteúdo da curricular, que são definidas como _assignments_.
 
 ## Debate Estruturado
 
-É tradição organizar o [Debate Estruturado](https://doi.org/10.5753/ihc.2018.4209) na unidade curricular. O propósito do debate é discutir tópicos de interação e interface que envolvem valores humanos. O debate também é uma forma de aproximar o estudante da produção científica na vanguarda na área de IHC. O debate consiste em uma fase de preparação, com a leitura e fichamento de dois artigos científicos, e uma fase de execução, com uma dinâmica de parlamento inglês realizada em sala de aula. Os estudantes que desejarem conhecer de antemão os detalhes da dinâmica do debate pode ler o artigo [Debate Estruturado: Uma Estratégia Pedagógica para Ensino e Aprendizagem de Valores Humanos em Interação Humano-Computador](https://doi.org/10.5753/ihc.2018.4209). A lista de [artigos científicos candidatos para debate](04-DebateEstruturado/Links-ArtigosCient%C3%ADficos.md) está disponível. Abaixo estão as informações específicas de cada debate.
+É tradição organizar o [Debate Estruturado](https://doi.org/10.5753/ihc.2018.4209) na unidade curricular. O propósito do debate é discutir tópicos de interação e interface que envolvem valores humanos. O debate também é uma forma de aproximar o estudante da produção científica na vanguarda na área de IHC. O debate consiste em uma fase de preparação, com a leitura e fichamento de dois artigos científicos, e uma fase de execução, com uma dinâmica de parlamento inglês realizada em sala de aula. Os estudantes que desejarem conhecer de antemão os detalhes da dinâmica do debate pode ler o artigo [Debate Estruturado: Uma Estratégia Pedagógica para Ensino e Aprendizagem de Valores Humanos em Interação Humano-Computador](https://doi.org/10.5753/ihc.2018.4209). A lista de [artigos científicos candidatos para debate](04-DebateEstruturado/Links-ArtigosCient%C3%ADficos.md) está disponível. Para verificar os artigos já debatidos na disciplina, pode-se verificar o [histórico](04-DebateEstruturado/IHC-HistoricoDeDebatesEstruturados.md).
 
-* Debate Estruturado 1
-* Debate Estruturado 2
 
 ## Material online
 Fiz a curadoria de alguns materiais online sobre interação humano-computador. São materiais complementares que considero úteis à unidade curricular. Esse material será indicado na aula apropriada. Isso não impede que os alunos explorem eles a qualquer tempo que desejarem -  é recomendado que o façam. Esta lista é dinâmica, novos materiais podem adicionados e links podem ser removidos ao longo do tempo. Os alunos da unidade curricular podem, inclusive, complementar a lista adicionando links para outros materiais que encontrarem na Internet. Para isso, façam _pull request_. Os materiais encontram-se organizados em duas categorias, que são:
