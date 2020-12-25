@@ -10,7 +10,7 @@ _A disciplina de Interação Humano-Computador (IHC) ocorre semestralmente no cu
 * 2020-2sem - Debate Estruturado 1 -[CodeMaster UI design - app inventor: a rubric for the assessment of the interface design of Android apps developed with app inventor](https://doi.org/10.1145/3357155.3358463)
 * 2020-2sem - Debate Estruturado 1 -[Creating Chatbots to talk with humans: HCI evaluations and perspectives](https://doi.org/10.1145/3357155.3358460)
 * 2020-2sem - Debate Estruturado 2 -[O problema da explicação em Inteligência Artificial: considerações a partir da semiótica](https://revistas.pucsp.br/teccogs/article/view/48590)
-* 2020-2sem - Debate Estruturado 2 -Exploring User Profiles Based on their Explainability Requirements in Interactive Systems
+* 2020-2sem - Debate Estruturado 2 -[Exploring User Profiles Based on their Explainability Requirements in Interactive Systems](https://doi.org/10.1145/3424953.3426545)
 * 2020-1sem - Debate Estruturado 1 -[How do adolescents cope with cyberhate? Psychometric properties and socio-demographic differences of a coping with cyberhate scale](https://www.sciencedirect.com/science/article/pii/S0747563219303796)
 * 2020-1sem - Debate Estruturado 1 -[Do you filter who you are?: Excessive self-presentation, social cues, and user evaluations of Instagram selfies](https://www.sciencedirect.com/science/article/pii/S0747563219303711)
 * 2020-1sem - Debate Estruturado 2 -[This Changes Sustainable HCI](https://doi.org/10.1145/3173574.3174045)
@@ -51,4 +51,4 @@ Violações dos Princípios de Afetibilidade: Um estudo de caso no Facebook](htt
 
 ## Referências
 
-PONCIANO, Lesandro. Debate Estruturado: Uma Estratégia Pedagógica para Ensino e Aprendizagem de Valores Humanos em Interação Humano-Computador. In: Workshop sobre Educação em IHC, Anais Estendidos do XVII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais. Porto Alegre: Sociedade Brasileira de Computação, oct. 2018 DOI: https://doi.org/10.5753/ihc.2018.4209.
+PONCIANO, Lesandro. Debate Estruturado: Uma Estratégia Pedagógica para Ensino e Aprendizagem de Valores Humanos em Interação Humano-Computador. In: Workshop sobre Educação em IHC, Anais Estendidos do XVII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais. Porto Alegre: Sociedade Brasileira de Computação, oct. 2018. DOI: [10.5753/ihc.2018.4209](https://doi.org/10.5753/ihc.2018.4209).
