@@ -3,6 +3,7 @@
 __Lesandro Ponciano (PUC Minas)__
 
 _Disciplina_: Interação Humano-Computador - 2020.2
+
 _Curso_: Engenharia de Software - PUC Minas - Praça da Liberdade
 
 
@@ -12,7 +13,7 @@ Diversos tópicos desafiam o estado-da-arte e o estado-da-prática de Engenharia
 
 Neste debate, propõe-se analisar de forma crítica fenômenos associados [TÓPICO]. Questões de interface e interação devem ser enfatizadas.
 
-O debate é avaliado em (VALOR) pontos. Ele será constituído de uma fase de preparação e outra de execução. A preparação é individual e consiste na leitura e análise escrita de artigos científicos de referência para o debate. A execução será a parte oral em que os(as) alunos(as), divididos(as) em dois grupos distintos, debaterão em sala respondendo perguntas uns dos outros e do professor.
+O debate é avaliado em [VALOR] pontos. Ele será constituído de uma fase de preparação e outra de execução. A preparação é individual e consiste na leitura e análise escrita de artigos científicos de referência para o debate. A execução será a parte oral em que os(as) alunos(as), divididos(as) em dois grupos distintos, debaterão em sala respondendo perguntas uns dos outros e do professor.
 
 ## Análise escrita: 
 
