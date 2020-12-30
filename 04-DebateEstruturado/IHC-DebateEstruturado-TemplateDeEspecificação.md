@@ -1,8 +1,8 @@
 # DEBATE ESTRUTURADO
 
-__Lesandro Ponciano (PUC Minas)__
+__Lesandro Ponciano__
 
-_Disciplina_: Interação Humano-Computador - 2020.2
+_Disciplina_: Interação Humano-Computador
 
 _Curso_: Engenharia de Software - PUC Minas - Praça da Liberdade
 
@@ -40,4 +40,4 @@ Consiste na entrega de um único arquivo contendo 3 páginas.
 
 PONCIANO, Lesandro. Debate Estruturado: Uma Estratégia Pedagógica para Ensino e Aprendizagem de Valores Humanos em Interação Humano-Computador. In: Workshop sobre Educação em IHC, Anais Estendidos do XVII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais. Porto Alegre: Sociedade Brasileira de Computação, oct. 2018 DOI: [10.5753/ihc.2018.4209](https://doi.org/10.5753/ihc.2018.4209).
 
-PONCIANO, Lesandro. Histórico de Debates Estruturados em IHC no Curso de Engenharia de Software da PUC Minas. Disponível em <https://github.com/lesandrop/Inter-Humano-Computador/blob/master/04-DebateEstruturado/IHC-HistoricoDeDebatesEstruturados.md>.
+PONCIANO, Lesandro. Histórico de Debates Estruturados em IHC no Curso de Engenharia de Software da PUC Minas. Disponível em <https://github.com/lesandrop/Inter-Humano-Computador/blob/master/04-DebateEstruturado/IHC-HistoricoDeDebatesEstruturados.md>. Último acesso em 29 dez. de 2020.
