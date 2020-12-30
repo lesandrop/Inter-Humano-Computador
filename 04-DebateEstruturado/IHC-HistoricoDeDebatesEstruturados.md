@@ -1,11 +1,30 @@
 # Histórico de Debates Estruturados em IHC no Curso de Engenharia de Software da PUC Minas
 
-__Lesandro Ponciano (PUC Minas)__
+__Lesandro Ponciano__
+
 
 ## Resumo
-_A disciplina de Interação Humano-Computador (IHC) ocorre semestralmente no curso graduação em Engenharia de Software da PUC Minas. A cada semestre são realizados 2 Debates Estruturados (Ponciano 2018). Neste documento são mantidas as informações dos artigos debatidos em cada um desses debates desde a primeira edição no segundo semestre de 2017._
+_A disciplina de Interação Humano-Computador (IHC) ocorre semestralmente nos cursos de graduação em Engenharia de Software e de graduação em Sistemas de Informação da PUC Minas. A cada semestre são realizados 2 Debates Estruturados (Ponciano 2018). Neste documento são mantidas as informações dos artigos debatidos em cada um desses debates desde a primeira edição, no segundo semestre de 2017._
 
-## Lista de artigos debatidos por ano e semestre
+
+## Lista de artigos candidatos a serem debatidos no Debate Estruturado
+
+1. [Privacy Requirements: Present & Future](https://ieeexplore.ieee.org/document/7961663)
+1. [A Framework to Deal with Privacy in Systems](https://ieeexplore.ieee.org/document/8937995/)
+1. [Regional Differences in Facebook Privacy Settings and Behaviour](https://ieeexplore.ieee.org/abstract/document/8711954)
+1. [Repacking ‘Privacy’ for a Networked World](https://rd.springer.com/article/10.1007%2Fs10606-017-9276-y)
+1. [Embodied cognition and the magical future of interaction design](https://dl.acm.org/doi/10.1145/2442106.2442109)
+1. [Creating user stereotypes for persona development from qualitative data through semi-automatic subspace clustering](https://link.springer.com/article/10.1007%2Fs11257-019-09252-5)
+1. [Will They Use It or Not? Investigating Software Developers’ Intention to Follow Privacy Engineering Methodologies](https://doi.org/10.1145/3364224)
+1. [Designing for Pragmatists and Fundamentalists: Privacy Concerns and Attitudes on the Internet of Things](https://dl.acm.org/doi/10.1145/3160504.3160545)
+1. [The privacy implications of social robots: Scoping review and expert interviews](https://doi.org/10.1177/2050157919843961)
+1. [Computational thinking education: Issues and challenges](https://www.sciencedirect.com/science/article/pii/S0747563219303978)
+1. [Does thinking-aloud affect learning, visual information processing and cognitive load when learning with seductive details as expected from self-regulation perspective?][https://www.sciencedirect.com/science/article/pii/S0747563220301643]
+1. [Demand-Driven Transparency for Monitoring IntelligentAgents](https://doi.org/10.1109/THMS.2020.2988859)
+1. [Dual-Track Agile in Software Engineering Education](https://doi.ieeecomputersociety.org/10.1109/ICSE-SEET.2019.00013)
+
+
+## Artigos debatidos em cada um dos dois debates realizados por curso a cada ano-semestre
 
 * 2020-2sem - Debate Estruturado 1 -[CodeMaster UI design - app inventor: a rubric for the assessment of the interface design of Android apps developed with app inventor](https://doi.org/10.1145/3357155.3358463)
 * 2020-2sem - Debate Estruturado 1 -[Creating Chatbots to talk with humans: HCI evaluations and perspectives](https://doi.org/10.1145/3357155.3358460)
