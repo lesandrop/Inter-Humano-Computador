@@ -19,9 +19,17 @@ _A disciplina de Interação Humano-Computador (IHC) ocorre semestralmente nos c
 1. [Designing for Pragmatists and Fundamentalists: Privacy Concerns and Attitudes on the Internet of Things](https://dl.acm.org/doi/10.1145/3160504.3160545)
 1. [The privacy implications of social robots: Scoping review and expert interviews](https://doi.org/10.1177/2050157919843961)
 1. [Computational thinking education: Issues and challenges](https://www.sciencedirect.com/science/article/pii/S0747563219303978)
-1. [Does thinking-aloud affect learning, visual information processing and cognitive load when learning with seductive details as expected from self-regulation perspective?][https://www.sciencedirect.com/science/article/pii/S0747563220301643]
+1. [Does thinking-aloud affect learning, visual information processing and cognitive load when learning with seductive details as expected from self-regulation perspective?](https://www.sciencedirect.com/science/article/pii/S0747563220301643)
+1. [Measuring the Cognitive Load of Learning to Program: A Replication Study](https://doi.org/10.1145/3416465.3416468)
 1. [Demand-Driven Transparency for Monitoring IntelligentAgents](https://doi.org/10.1109/THMS.2020.2988859)
 1. [Dual-Track Agile in Software Engineering Education](https://doi.ieeecomputersociety.org/10.1109/ICSE-SEET.2019.00013)
+1. [Human-Computability Boundaries](https://www.cs.dartmouth.edu/~sws/pubs/kisw2019.pdf)
+1. [Considering human aspects on strategies for designing and managing distributed human computation](https://doi.org/10.1186/s13174-014-0010-4)
+1. [Agreement-based credibility assessment and task replication in human computation systems](https://doi.org/10.1016/j.future.2018.05.028)
+1. [Finding Volunteers' Engagement Profiles in Human Computation for Citizen Science Projects](https://arxiv.org/abs/1501.02134)
+1. [The complexity of human computation via a concrete model with an application to passwords](https://doi.org/10.1073/pnas.1801839117)
+1. [Human Computation and Convergence](https://arxiv.org/abs/1503.05959)
+
 
 
 ## Artigos debatidos em cada um dos dois debates realizados por curso a cada ano-semestre
