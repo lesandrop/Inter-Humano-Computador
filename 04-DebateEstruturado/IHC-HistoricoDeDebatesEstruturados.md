@@ -29,6 +29,8 @@ _A disciplina de Interação Humano-Computador (IHC) ocorre semestralmente nos c
 1. [Finding Volunteers' Engagement Profiles in Human Computation for Citizen Science Projects](https://arxiv.org/abs/1501.02134)
 1. [The complexity of human computation via a concrete model with an application to passwords](https://doi.org/10.1073/pnas.1801839117)
 1. [Human Computation and Convergence](https://arxiv.org/abs/1503.05959)
+1. [“I don't want to be known for that:”The role of temporality in online self-presentation of young gay and bisexual males](https://doi.org/10.1016/j.chb.2021.106706)
+1. [Anthropomorphism brings us closer: The mediating role of psychological distance in User–AI assistant interactions](https://doi.org/10.1016/j.chb.2021.106680)
 
 
 
