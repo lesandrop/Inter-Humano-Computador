@@ -36,14 +36,19 @@ Criei um cartão de suporte que serve como resumo do conteúdo estudado ao longo
 
 Os estudantes que desejarem entender melhor como o Cartão de Suporte é criado e como ele pode ser usado para melhorar o aproveitamento acadêmico nos conteúdos de interação humano-computador, sugiro lerem o artigo [HCI Support Card: Creating and Using a Support Card for Education in Human-Computer Interaction](https://doi.org/10.5753/ihc.2019.8409).
 
-## Assignments e hands-on
-
-Ao longo do semestre são realizadas atividades práticas de design e avaliação definidas como _hands-on_ e atividades teóricas sobre o conteúdo da curricular, que são definidas como _assignments_.
 
 ## Debate Estruturado
 
 É tradição organizar o [Debate Estruturado](https://doi.org/10.5753/ihc.2018.4209) na unidade curricular. O propósito do debate é discutir tópicos de interação e interface que envolvem valores humanos. O debate também é uma forma de aproximar o estudante da produção científica na vanguarda na área de IHC. O debate consiste em uma fase de preparação, com a leitura e fichamento de dois artigos científicos, e uma fase de execução, com uma dinâmica de parlamento inglês realizada em sala de aula. Os estudantes que desejarem conhecer de antemão os detalhes da dinâmica do debate pode ler o artigo [Debate Estruturado: Uma Estratégia Pedagógica para Ensino e Aprendizagem de Valores Humanos em Interação Humano-Computador](https://doi.org/10.5753/ihc.2018.4209). A lista de artigos científicos candidatos para o debate assim como os artigos já debatidos na disciplina estão disponíveis no [histórico de debates](04-DebateEstruturado/IHC-HistoricoDeDebatesEstruturados.md).
 
+## IHCine
+
+IHC Cine (_IHCine_) é uma aula na qual a turma tem a oportunidade de ver e comentar vários vídeos direto ou indiretamente relacionados com interação humano-computador. Geralmente os vídeos envolvem conceitos básicos de interação humano computador, processos de design, paradigmas de interação, abordagens teóricas, prototipagem, avaliação de IHC, enfim todo o conteúdo da disciplina. O IHCine não é uma atividade passiva de apenas assistir aos vídeos, mas uma atividade que envolve analisar, contextualizar e debater o conteúdo deles.
+
+
+## Assignments e hands-on
+
+Ao longo do semestre são realizadas atividades práticas de design e avaliação definidas como _hands-on_ e atividades teóricas sobre o conteúdo da curricular, que são definidas como _assignments_.
 
 ## Material online
 Fiz a curadoria de alguns materiais online sobre interação humano-computador. São materiais complementares que considero úteis à unidade curricular. Esse material será indicado na aula apropriada. Isso não impede que os alunos explorem eles a qualquer tempo que desejarem -  é recomendado que o façam. Esta lista é dinâmica, novos materiais podem adicionados e links podem ser removidos ao longo do tempo. Os alunos da unidade curricular podem, inclusive, complementar a lista adicionando links para outros materiais que encontrarem na Internet. Para isso, façam _pull request_. Os materiais encontram-se organizados em duas categorias, que são:
@@ -51,6 +56,9 @@ Fiz a curadoria de alguns materiais online sobre interação humano-computador. 
 * [:tv: Filmes e Vídeos](00a-MaterialOnline/Links-FilmesVideos.md)
 * [:books: Textos sobre Interface e Interação](00a-MaterialOnline/Links-InterfaceIntera%C3%A7%C3%A3o.md)
 * [:wrench: Ferramentas](05-Ferramentas/Links-Ferramentas.md)
+
+
+
 
 ## Trabalhos de Semestres Anteriores
 
