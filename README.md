@@ -43,8 +43,9 @@ Os estudantes que desejarem entender melhor como o Cartão de Suporte é criado 
 
 ## IHCine
 
-IHC Cine (_IHCine_) é uma aula na qual a turma tem a oportunidade de ver e comentar vários vídeos direto ou indiretamente relacionados com interação humano-computador. Geralmente os vídeos envolvem conceitos básicos de interação humano computador, processos de design, paradigmas de interação, abordagens teóricas, prototipagem, avaliação de IHC, enfim todo o conteúdo da disciplina. O IHCine não é uma atividade passiva de apenas assistir aos vídeos, mas uma atividade que envolve analisar, contextualizar e debater o conteúdo deles.
+IHC Cine (_IHCine_) é uma aula na qual a turma tem a oportunidade de ver e comentar vários vídeos direto ou indiretamente relacionados com interação humano-computador. Geralmente os vídeos envolvem conceitos básicos de interação humano computador, processos de design, paradigmas de interação, abordagens teóricas, prototipagem, avaliação de IHC, enfim todo o conteúdo da disciplina. O IHCine não é uma atividade passiva de apenas assistir aos vídeos, mas uma atividade que envolve analisar, contextualizar e debater o conteúdo deles. Alguns dos vídeos candidatos a serem incluídos no IHCine estão incluídos baixo.
 
+* [:tv: Filmes e Vídeos](06-IHCine)
 
 ## Assignments e hands-on
 
@@ -53,7 +54,6 @@ Ao longo do semestre são realizadas atividades práticas de design e avaliaçã
 ## Material online
 Fiz a curadoria de alguns materiais online sobre interação humano-computador. São materiais complementares que considero úteis à unidade curricular. Esse material será indicado na aula apropriada. Isso não impede que os alunos explorem eles a qualquer tempo que desejarem -  é recomendado que o façam. Esta lista é dinâmica, novos materiais podem adicionados e links podem ser removidos ao longo do tempo. Os alunos da unidade curricular podem, inclusive, complementar a lista adicionando links para outros materiais que encontrarem na Internet. Para isso, façam _pull request_. Os materiais encontram-se organizados em duas categorias, que são:
 
-* [:tv: Filmes e Vídeos](00a-MaterialOnline/Links-FilmesVideos.md)
 * [:books: Textos sobre Interface e Interação](00a-MaterialOnline/Links-InterfaceIntera%C3%A7%C3%A3o.md)
 * [:wrench: Ferramentas](05-Ferramentas/Links-Ferramentas.md)
 
