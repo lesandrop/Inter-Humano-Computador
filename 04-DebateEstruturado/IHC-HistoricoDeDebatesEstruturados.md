@@ -36,8 +36,10 @@ _A disciplina de Interação Humano-Computador (IHC) ocorre semestralmente nos c
 
 ## Artigos debatidos em cada um dos dois debates realizados por curso a cada ano-semestre
 
-* 2021-1sem - Debate Estruturado 1 - [Brain computer interface: control signals review](https://doi.org/10.1016/j.neucom.2016.10.024)
-* 2021-1sem - Debate Estruturado 1 - [Brain-Computer Interface Control in a Virtual Reality Environment and Applications for the Internet of Things](https://doi.org/10.1109/ACCESS.2018.2809453)
+* 2021-1sem - Debate Estruturado 1 - [“I don't want to be known for that:”The role of temporality in online self-presentation of young gay and bisexual males](https://doi.org/10.1016/j.chb.2021.106706)
+* 2021-1sem - Debate Estruturado 1 - [Designing for Pragmatists and Fundamentalists: Privacy Concerns and Attitudes on the Internet of Things](https://dl.acm.org/doi/10.1145/3160504.3160545)
+* 2021-1sem - Debate Estruturado 2 - [Brain computer interface: control signals review](https://doi.org/10.1016/j.neucom.2016.10.024)
+* 2021-1sem - Debate Estruturado 2 - [Brain-Computer Interface Control in a Virtual Reality Environment and Applications for the Internet of Things](https://doi.org/10.1109/ACCESS.2018.2809453)
 * 2020-2sem - Debate Estruturado 1 -[CodeMaster UI design - app inventor: a rubric for the assessment of the interface design of Android apps developed with app inventor](https://doi.org/10.1145/3357155.3358463)
 * 2020-2sem - Debate Estruturado 1 -[Creating Chatbots to talk with humans: HCI evaluations and perspectives](https://doi.org/10.1145/3357155.3358460)
 * 2020-2sem - Debate Estruturado 2 -[O problema da explicação em Inteligência Artificial: considerações a partir da semiótica](https://revistas.pucsp.br/teccogs/article/view/48590)
