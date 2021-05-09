@@ -21,3 +21,4 @@
 1. [:tv: Apresentação do primeiro iPhone, 2007. (Legendado PT-BR)](https://www.youtube.com/watch?v=2qhftAocuKE)
 1. [Estética de manchetes do NY times em 2020-2021](NYtimeHeadLines.mp4)
 1. Protótipos em vídeo [:tv: Sistema Pulso](https://youtu.be/TWXc-a3uPIk) e [:tv: Sistema Lumen](https://youtu.be/pI7LEZ3AsOg)
+1. [:tv: Steve Gleason: "Technology Has Saved My Life" ](https://youtu.be/ItJIXrr01UU)
