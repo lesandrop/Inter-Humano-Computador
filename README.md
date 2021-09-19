@@ -3,7 +3,7 @@
 **Lesandro Ponciano**
 
 ## Informações
-* Disciplina no Curso de **Engenharia de Software na PUC Minas - Praça da Liberdade**
+* Disciplina no Curso de **Engenharia de Software** e **Sistemas de Informação**
 * Prof. **Lesandro Ponciano**  [[Lattes iD](http://lattes.cnpq.br/2211388362277178)] - [[Orcid iD](http://orcid.org/0000-0002-5724-0094)]
 
 ## Slides das Aulas Expositivas
@@ -58,8 +58,6 @@ Fiz a curadoria de alguns materiais online sobre interação humano-computador. 
 * [:wrench: Ferramentas](05-Ferramentas/Links-Ferramentas.md)
 
 
-
-
 ## Trabalhos de Semestres Anteriores
 
 Os estudantes desta unidade curricular têm realizado trabalhos excelentes. Estou organizando esses trabalhos para que os novos estudantes da unidade curricular possam conhecê-los e se inspirar neles. Os que já estão organizados são:
@@ -76,4 +74,4 @@ Os estudantes da unidade curricular podem contribuir com correções e sugestõe
 
 ---
 
-_Lesandro Ponciano (lesandrop at pucminas.br)
+_Lesandro Ponciano (lesandro.ponciano@gmail.com)_
