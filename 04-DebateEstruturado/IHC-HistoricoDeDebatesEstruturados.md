@@ -9,6 +9,7 @@ _A disciplina de Interação Humano-Computador (IHC) ocorre semestralmente nos c
 
 ## Lista de artigos candidatos a serem debatidos no Debate Estruturado
 
+1. [A Survey of 15 Years of Data-Driven Persona Development](https://www.tandfonline.com/doi/full/10.1080/10447318.2021.1908670)
 1. [Privacy Requirements: Present & Future](https://ieeexplore.ieee.org/document/7961663)
 1. [A Framework to Deal with Privacy in Systems](https://ieeexplore.ieee.org/document/8937995/)
 1. [Regional Differences in Facebook Privacy Settings and Behaviour](https://ieeexplore.ieee.org/abstract/document/8711954)
