@@ -7,36 +7,12 @@ __Lesandro Ponciano__
 _A disciplina de Interação Humano-Computador (IHC) ocorre semestralmente nos cursos de graduação em Engenharia de Software e de graduação em Sistemas de Informação da PUC Minas. A cada semestre são realizados dois Debates Estruturados (Ponciano 2018). Neste documento, são mantidas as informações dos artigos debatidos em cada um desses debates, desde a primeira edição, no segundo semestre de 2017._
 
 
-## Lista de artigos candidatos a serem debatidos no Debate Estruturado
-
-1. [A Survey of 15 Years of Data-Driven Persona Development](https://www.tandfonline.com/doi/full/10.1080/10447318.2021.1908670)
-1. [Privacy Requirements: Present & Future](https://ieeexplore.ieee.org/document/7961663)
-1. [A Framework to Deal with Privacy in Systems](https://ieeexplore.ieee.org/document/8937995/)
-1. [Regional Differences in Facebook Privacy Settings and Behaviour](https://ieeexplore.ieee.org/abstract/document/8711954)
-1. [Repacking ‘Privacy’ for a Networked World](https://rd.springer.com/article/10.1007%2Fs10606-017-9276-y)
-1. [Embodied cognition and the magical future of interaction design](https://dl.acm.org/doi/10.1145/2442106.2442109)
-1. [Creating user stereotypes for persona development from qualitative data through semi-automatic subspace clustering](https://link.springer.com/article/10.1007%2Fs11257-019-09252-5)
-1. [Will They Use It or Not? Investigating Software Developers’ Intention to Follow Privacy Engineering Methodologies](https://doi.org/10.1145/3364224)
-1. [Designing for Pragmatists and Fundamentalists: Privacy Concerns and Attitudes on the Internet of Things](https://dl.acm.org/doi/10.1145/3160504.3160545)
-1. [The privacy implications of social robots: Scoping review and expert interviews](https://doi.org/10.1177/2050157919843961)
-1. [Computational thinking education: Issues and challenges](https://www.sciencedirect.com/science/article/pii/S0747563219303978)
-1. [Does thinking-aloud affect learning, visual information processing and cognitive load when learning with seductive details as expected from self-regulation perspective?](https://www.sciencedirect.com/science/article/pii/S0747563220301643)
-1. [Measuring the Cognitive Load of Learning to Program: A Replication Study](https://doi.org/10.1145/3416465.3416468)
-1. [Demand-Driven Transparency for Monitoring IntelligentAgents](https://doi.org/10.1109/THMS.2020.2988859)
-1. [Dual-Track Agile in Software Engineering Education](https://doi.ieeecomputersociety.org/10.1109/ICSE-SEET.2019.00013)
-1. [Human-Computability Boundaries](https://www.cs.dartmouth.edu/~sws/pubs/kisw2019.pdf)
-1. [Considering human aspects on strategies for designing and managing distributed human computation](https://doi.org/10.1186/s13174-014-0010-4)
-1. [Agreement-based credibility assessment and task replication in human computation systems](https://doi.org/10.1016/j.future.2018.05.028)
-1. [Finding Volunteers' Engagement Profiles in Human Computation for Citizen Science Projects](https://arxiv.org/abs/1501.02134)
-1. [The complexity of human computation via a concrete model with an application to passwords](https://doi.org/10.1073/pnas.1801839117)
-1. [Human Computation and Convergence](https://arxiv.org/abs/1503.05959)
-1. [“I don't want to be known for that:”The role of temporality in online self-presentation of young gay and bisexual males](https://doi.org/10.1016/j.chb.2021.106706)
-1. [Anthropomorphism brings us closer: The mediating role of psychological distance in User–AI assistant interactions](https://doi.org/10.1016/j.chb.2021.106680)
-
-
-
 ## Artigos debatidos em cada um dos dois debates realizados por curso a cada ano-semestre
 
+* 2021-2sem - Debate Estruturado 1 - [Creating user stereotypes for persona development from qualitative data through semi-automatic subspace clustering](https://link.springer.com/article/10.1007/s11257-019-09252-5)
+* 2021-2sem - Debate Estruturado 1 - [Modeling and Evaluating Personas with Software Explainability Requirements](https://arxiv.org/ct?url=https%3A%2F%2Fdx.doi.org%2F10.1007%2F978-3-030-92325-9_11&v=8bf29927)
+* 2021-2sem - Debate Estruturado 2 - [HCI Support Card: Creating and Using a Support Card for Education in Human-Computer Interaction](https://doi.org/10.5753/ihc.2019.8409)
+* 2021-2sem - Debate Estruturado 2 - [Debate Estruturado: Uma Estratégia Pedagógica para Ensino e Aprendizagem de Valores Humanos em Interação Humano-Computador](https://doi.org/10.5753/ihc.2018.4209)
 * 2021-1sem - Debate Estruturado 1 - [“I don't want to be known for that:”The role of temporality in online self-presentation of young gay and bisexual males](https://doi.org/10.1016/j.chb.2021.106706)
 * 2021-1sem - Debate Estruturado 1 - [Designing for Pragmatists and Fundamentalists: Privacy Concerns and Attitudes on the Internet of Things](https://dl.acm.org/doi/10.1145/3160504.3160545)
 * 2021-1sem - Debate Estruturado 2 - [Brain computer interface: control signals review](https://doi.org/10.1016/j.neucom.2016.10.024)
