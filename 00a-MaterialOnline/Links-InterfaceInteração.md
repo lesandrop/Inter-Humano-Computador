@@ -5,6 +5,12 @@
 * [Interaction Design Foundation](https://www.interaction-design.org/)
 
 * [Nielsen Norman Group](https://www.nngroup.com/)
+  
+* [Data Viz Color Palette Generator (for Charts & Dashboards)](https://www.learnui.design/tools/data-color-picker.html)
+  
+* [The HSB Color System: A Practitioner's Primer](https://www.learnui.design/blog/the-hsb-color-system-practicioners-primer.html)
+  
+* [Color in UI Design: A (Practical) Framework](https://www.learnui.design/blog/color-in-ui-design-a-practical-framework.html)
 
 ## Português ##
 
