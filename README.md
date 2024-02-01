@@ -1,8 +1,10 @@
+**Este repositório está arquivado, pois todo o conteúdo de interação humano-computador presente neste repositório foi atualizado e reestruturado. O material atual está disponível em https://github.com/lesandrop/site/tree/master/teaching/IHC Esse material também pode ser acessado na seguinte página web https://lesandrop.github.io/site/teaching/IHC**
+
+
+
+---
 # INTERAÇÃO HUMANO-COMPUTADOR
 
-**Lesandro Ponciano**
-
-_Este repositório está arquivado, pois todo o conteúdo de interação humano computador presente neste repositório foi atualizado e reestruturado_
 
 ## Informações
 * Disciplina no Curso de **Engenharia de Software**
